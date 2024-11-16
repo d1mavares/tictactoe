@@ -5,7 +5,7 @@ There are two main files in this project: runner.py and tictactoe.py. tictactoe.
 
 ![image](https://github.com/d1mavares/tictactoe/assets/87578768/b616ecc6-dd70-4e54-8056-1c6ea611846e)
 
-[https://github.com/d1mavares/tictactoe/blob/main/tictactoe-2024-11-16_17.33.34.flv](https://youtu.be/5oWAWHMYwOw)
+[Video](https://youtu.be/5oWAWHMYwOw)
 
 ## Functions description
 
